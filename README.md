@@ -6,5 +6,4 @@ Nugit-DS
 4. `output.json` is the output file. 
 5. `htmlcov` contains codecoverage results. 
 6. `bower_components` contain javascript libraries for visualization. 
-7. 
 
